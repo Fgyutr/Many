@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+.DS_Store
+Many.xcodeproj/project.pbxproj
+Many.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Many.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Many.xcodeproj/project.xcworkspace/xcuserdata/maksimmozgovoj.xcuserdatad/UserInterfaceState.xcuserstate
+Many.xcodeproj/xcuserdata/maksimmozgovoj.xcuserdatad/xcschemes/xcschememanagement.plist
